@@ -2,7 +2,7 @@
 Aimbigathon <br>
 Team Technocrats<br>
 
-By <br>
+Team members <br>
 Balaji R<br>
 Sobhana S<br>
 Nikhitha S
