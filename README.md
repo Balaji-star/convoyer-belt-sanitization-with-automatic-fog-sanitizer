@@ -1,8 +1,8 @@
 # convoyer-belt-sanitization-with-automatic-fog-sanitizer
-Aimbigathon
-Team Technocrats
+Aimbigathon <br>
+Team Technocrats<br>
 
-By 
-Balaji R
-Sobhana S
+By <br>
+Balaji R<br>
+Sobhana S<br>
 Nikhitha S
